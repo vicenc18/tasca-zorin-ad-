@@ -1,6 +1,6 @@
 # Integració de Zorin OS a Active Directory
 
-# ![][image1]
+# ![][img/zorin-1]
 
 Fet per: Vicenç.O  
 Data: 5/11/2026
@@ -10,7 +10,7 @@ Data: 5/11/2026
 Linux es pot integrar a Active Directory per utilitzar autenticació centralitzada.  
  Zorin OS, basat en Ubuntu, permet aquesta integració de manera sencilla.
 
-![][image2]
+![][img/zorin-2]
 
 ## **Pas 2\. Sistemes compatibles**
 
